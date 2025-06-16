@@ -32,7 +32,10 @@ cd simple
 forge build
 ```
 
----
+```bash
+cd vlayer
+bun install
+```
 
 ## 4. TESTNET SETUP
 
