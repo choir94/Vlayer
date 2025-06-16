@@ -119,6 +119,11 @@ docker start -ai vlayer-dev
 wget -O testnet-web-proof.sh https://raw.githubusercontent.com/choir94/Vlayer/refs/heads/main/testnet-web-proof.sh && chmod +x testnet-web-proof.sh && ./testnet-web-proof.sh
 ```
 
+### Testnet email proof (One click)
+
+```bash
+wget -O testnet-email-proof.sh https://raw.githubusercontent.com/choir94/Vlayer/refs/heads/main/testnet-email-proof.sh && chmod +x testnet-email-proof.sh && ./testnet-email-proof.sh
+```
 
 ## References
 
