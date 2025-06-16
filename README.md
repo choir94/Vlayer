@@ -113,7 +113,7 @@ docker start -ai vlayer-dev
 ## References
 
 - [https://dashboard.vlayer.xyz](https://dashboard.vlayer.xyz)
-- [https://docs.vlayer.xyz](https://docs.vlayer.xyz)
+- [(https://book.vlayer.xyz/getting-started/installation.html)](https://book.vlayer.xyz/getting-started/installation.html)
 - [https://t.me/airdrop_node](https://t.me/airdrop_node)
 ---
 
