@@ -2,7 +2,7 @@
 # VLAYER DOCKER TUTORIAL (PREBUILT IMAGE)
 
 Supports both Testnet & Mainnet
-
+Ubuntu 24
 ---
 
 ## 1. Pull Docker Image
